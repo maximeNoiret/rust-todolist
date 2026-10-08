@@ -2,11 +2,12 @@
 Mostly made this to learn Rust a little more. Specifically database operations with it.
 
 ## TODO (lol)
-- [ ] Setup Database's structural script
+- [ ] Implement Date struct and methods
 - [ ] Implement Task struct and methods
 - [ ] Implement ADD task
 - [ ] Implement LIST tasks
   - ID, STATUS, DESCRIPTION
+- [ ] Setup Database's structural script for persistence
 - [ ] Implement COMPLETE task (mark it as completed)
 - [ ] Implement DELETE task
 - [ ] Implement UPDATE task

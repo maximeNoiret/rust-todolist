@@ -27,6 +27,12 @@ impl Date {
 			day: new_day,
 		};
 	}
+
+	pub fn days_until(&self, end_date: Date) -> Date {
+		// This fucking sucks.
+		// Date arithmetic fucking sucks to code. I will not do it.
+		//     (at the very leat not YET.)
+	}
 }
 
 impl fmt::Display for Date {

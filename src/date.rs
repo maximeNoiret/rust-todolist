@@ -31,7 +31,7 @@ impl Date {
 	pub fn days_until(&self, end_date: Date) -> Date {
 		// This fucking sucks.
 		// Date arithmetic fucking sucks to code. I will not do it.
-		//     (at the very leat not YET.)
+		//     (at the very least not YET.)
 	}
 }
 
